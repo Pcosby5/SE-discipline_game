@@ -1,6 +1,4 @@
-# **DAY 1**
-
-# TOPIC TO DISCUSS - STRINGS
+# TOPIC TO DISCUSS - **STRINGS**
 
 # Day 1: Introduction to Strings
 
