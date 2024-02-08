@@ -1,10 +1,6 @@
 # **SE-DISCIPLINE_GAME**
 
 
-Hello everyone! As I have some free time, let's go over the plan for our collaborative learning journey.
-
-I find joy in helping others, especially witnessing individuals become valuable contributors with my assistance. Drawing inspiration from the South African concept of 'Ubuntu,' signifying 'humanity to others,' we aim to support each other and collectively push our limits.
-
 Treating this as a game, we'll engage in active coding for minimum hours daily, challenging ourselves to reach new heights. However, every game has its rules, and here are ours:
 
 1. Strictly follow instructions to avoid elimination. No excuses—just get the task done as instructed.
