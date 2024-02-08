@@ -74,3 +74,53 @@ String slicing can be combined with string concatenation to manipulate strings e
 
 By mastering string indexing and slicing, you gain greater control over manipulating strings in your programs. Tomorrow, we'll explore more advanced string manipulation techniques.Stay tuned!
 
+
+
+# Day 3: String Methods and Operations
+
+In Day 2, we explored string indexing and slicing. Today, we'll dive deeper into string methods and operations that enable us to manipulate strings in various ways.
+
+## 1. String Methods
+String methods are built-in functions that allow us to perform common operations on strings.
+
+### a. `str.upper()` and `str.lower()`
+- `str.upper()`: Converts all characters in a string to uppercase.
+- `str.lower()`: Converts all characters in a string to lowercase.
+
+### b. `str.strip()`
+- `str.strip()`: Removes leading and trailing whitespace from a string.
+
+### c. `str.split()`
+- `str.split(delimiter)`: Splits a string into a list of substrings based on a delimiter.
+
+### d. `str.replace()`
+- `str.replace(old, new)`: Replaces occurrences of a specified substring with another substring.
+
+## 2. String Operations
+In addition to methods, there are various operations we can perform on strings.
+
+### a. Concatenation
+- Strings can be concatenated using the `+` operator or the `str.concat()` method.
+
+### b. Membership Test
+- We can check if a substring is present in a string using the `in` operator.
+
+### c. String Formatting
+- String formatting allows us to create formatted strings using placeholders or format specifiers.
+
+## 3. Escape Sequences
+Escape sequences are special characters used to represent non-printable characters or to include characters with special meanings in strings.
+
+### a. `\n`
+- Represents a newline character.
+
+### b. `\t`
+- Represents a tab character.
+
+### c. `\\`
+- Represents a backslash character.
+
+By mastering these string methods, operations, and escape sequences, you'll have a solid foundation for working with strings in your programs.
+
+Stay tuned for tomorrow's session, where we'll explore more advanced string manipulation techniques!
+
