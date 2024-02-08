@@ -74,5 +74,5 @@ The length of a string can be obtained using the `len()` function. For example:
 String slicing can be combined with string concatenation to manipulate strings efficiently. For example:
 - `"Hello"[:3] + "World"` returns `'HelloWorld'`.
 
-By mastering string indexing and slicing, you gain greater control over manipulating strings in your programs. Tomorrow, we'll explore more advanced string manipulation techniques. Stay tuned!
+By mastering string indexing and slicing, you gain greater control over manipulating strings in your programs. Tomorrow, we'll explore more advanced string manipulation techniques.Stay tuned!
 
