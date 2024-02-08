@@ -35,7 +35,7 @@ I learned about defining routes using URL patterns in the `urls.py` file, mappin
 
 Additionally, I delved deeper into models and their management in Django. I explored creating more complex models with relationships, such as `ForeignKey` and `ManyToManyField`, to establish connections between different types of data. These relationships allow me to represent real-world scenarios more accurately and efficiently manage data in my application.
 
-Today's learning also included understanding deployment configurations and files necessary for deploying Django projects to production servers, including `requirements.txt`, `Procfile`, and `runtime.txt`. the second and third i have not really delve into.
+Today's learning also included understanding deployment configurations and files necessary for deploying Django projects to production servers, including `requirements.txt`, `Procfile`, and `runtime.txt`, the second and third i have not really delve into.
 
 By mastering these concepts, commands, and file components, I'm gaining a deeper understanding of Django's architecture and workflow. Excited to continue building my Django project and exploring deployment options in the upcoming days!
 
