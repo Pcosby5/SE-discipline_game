@@ -1,3 +1,5 @@
+# 1. Regular Expressions:
+
 import re
 
 # Example of using re.match() to find a pattern at the beginning of a string
@@ -15,7 +17,7 @@ print("Four-letter words in the text:", matches)
 
 
 
-
+# 2. String Formatting:
 # Example of old-style string formatting using %
 name = 'Alice'
 age = 30
@@ -28,6 +30,7 @@ print("Name: {}, Age: {}".format(name, age))
 print(f"Name: {name}, Age: {age}")
 
 
+# 3. Unicode and Encoding:
 # Example of encoding and decoding Unicode strings
 text = 'Hello, 你好'
 encoded_text = text.encode('utf-8')  # Encode Unicode string to bytes using UTF-8 encoding
@@ -37,6 +40,7 @@ decoded_text = encoded_text.decode('utf-8')  # Decode bytes to Unicode string us
 print("Decoded text:", decoded_text)
 
 
+# 4. String Operations and Methods:
 # Example of using string methods for searching and manipulation
 text = '   Hello, World!   '
 print("Original string:", text)
